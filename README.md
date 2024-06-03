@@ -7,9 +7,13 @@ Technical Stack
 The following technologies are used in this project:
 
 React.js
+
 Cascading Style Sheets (CSS) 
+
 Javascript
+
 HTML
+
 GitHub 
 
 Screenshots
